@@ -39,5 +39,5 @@
 
 ```sh
 curl -X POST "http://localhost:8080/translate?text=hello%20world&from=en&to=ru"
-
+```
 Также вы можете открыть этот адрес в браузере и также получить ответ.
